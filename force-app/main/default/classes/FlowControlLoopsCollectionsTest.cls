@@ -1,4 +1,4 @@
-/**
+/*
 * This test class, FlowControlLoopsCollectionsTest, is used to test the methods in the FlowControlLoopsCollections class.
 * It contains individual test methods for each method in the class, validating their functionality and expected outcomes.
 * The test methods utilize the Salesforce Assert class to assert and validate the results.
